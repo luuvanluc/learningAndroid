@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bai04_Widget</string>
+    <string name="empty_note">Your note list is empty. Let start to create a new note now</string>
+</resources>

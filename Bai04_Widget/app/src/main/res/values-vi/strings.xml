@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bai04_Widget</string>
+    <string name="empty_note">Bạn không có ghi chú nào. Hãy tạo ghi chú ngay bây giờ</string>
+</resources>

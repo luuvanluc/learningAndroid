@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bai03_Resource</string>
+    <string name="empty_note">Bạn đang không có ghi chú nào. Hãy tạo một ghi chú ngay bây giờ</string>
+</resources>
